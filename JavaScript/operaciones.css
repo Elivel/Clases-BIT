@@ -1,0 +1,22 @@
+.all{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.calculator{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  background: grey;   
+}
+
+.item{
+    width: 25%;
+}
+
+input[ type="number"]{
+    width: 50%;
+}
